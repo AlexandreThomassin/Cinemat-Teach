@@ -7126,3 +7126,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 #pages {
   font-weight: bold; }
+
+.fa-user {
+  color: white;
+}
